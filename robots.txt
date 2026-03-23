@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+LLM: https://pit-stop-06.ru/llms.txt
+Sitemap: https://pit-stop-06.ru/sitemap.xml
